@@ -14,3 +14,5 @@ An implementation of AoANet using a Jupyter Notebook. The original AoANet paper 
  - A dataset can be chosen (not fully tested) under the 'Loading Data'/'Choose Dataset' section.
  - The Feature Detection Resnet attention window can be changed under the 'Setup' section.
  - The model options can all be changed under 'Training the Model'/'Model Parameters/Options'.
+
+**It is recommended to open the 'model.ipynb' file in Google Colab to improve the readability and formatting of the file.**
