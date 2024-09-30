@@ -3,7 +3,7 @@ An implementation of AoANet using a Jupyter Notebook. The original AoANet paper 
 
 # Special Thanks To
  - https://arxiv.org/pdf/1908.06954.pdf by Lun Huang, Wenmin Wang, Jie Chen, Xiao-Yong Wei for the original model.
- - https://github.com/husthuaan/AoANet for the model code.
+ - https://github.com/husthuaan/AoANet for providing an implementation of the model that was used to bugfix.
  - https://github.com/ruotianluo/ImageCaptioning.pytorch for a very useful hub for Image Captioning ML models.
  - My group members https://github.com/raylfli and https://github.com/CarolusSolis.
  
